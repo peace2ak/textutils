@@ -1,0 +1,1 @@
+ye esi properties ha jo hum components to dete ha take vo component in properties to use krke apne aap ko render kre
